@@ -1,0 +1,8 @@
+{
+  "tenant_id":["UTEC","UPC","UNI"]
+}
+
+{
+  "tenant_id":["UTEC"]
+}
+
