@@ -44,3 +44,7 @@ def lambda_handler(event, context):
             'statusCode': 400,
             'body': json.dumps("No se encontraron registros en el evento SNS")
         }
+
+
+        
+        # Archivos revisados 16 de julio de 2025
